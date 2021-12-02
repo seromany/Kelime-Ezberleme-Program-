@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "614401408710",
+    "project_id": "vocablestore",
+    "storage_bucket": "vocablestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614401408710:android:246fca6522a01a4c4ae1c7",
+        "android_client_info": {
+          "package_name": "com.serhattanus.vocablestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614401408710-50f35knp594q51avhbohpm63558a1k9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDre4NYsm3BmWsAis2_3ULNzhfCkFIL08s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614401408710-50f35knp594q51avhbohpm63558a1k9s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
